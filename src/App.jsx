@@ -16,7 +16,8 @@ import {
   ExternalLink,
   Clock,
   CheckCircle,
-  AlertCircle
+  AlertCircle,
+  Download
 } from 'lucide-react';
 
 // ============================================
@@ -289,6 +290,19 @@ function Portfolio() {
                 <div className="text-gray-500 font-medium text-xs">GitHub</div>
                 <div className="text-gray-900 text-xs">khushalpatil0812</div>
               </div>
+            </a>
+          </div>
+
+          {/* Download Resume Button */}
+          <div className="flex justify-center mb-12">
+            <a 
+              href="https://drive.google.com/uc?export=download&id=1dDntTWXsnNOfMSz0eIsvMOK1_GT8Lfv2" 
+              target="_blank" 
+              rel="noopener noreferrer" 
+              className="inline-flex items-center gap-3 px-8 py-4 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 hover:shadow-lg transition-all transform hover:scale-105"
+            >
+              <Download size={20} />
+              Download Resume
             </a>
           </div>
 
