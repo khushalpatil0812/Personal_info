@@ -30,7 +30,7 @@ const freelanceProjects = [
     client: "SCADA PL",
     description: "Contributed to building a cutting-edge automation solutions platform for industrial operations. Developed features to revolutionize manufacturing processes and boost productivity with AI-driven innovation. Created responsive web interfaces and integrated backend services.",
     tech: ["React", "Spring Boot", "AI Integration", "Industrial IoT"],
-    duration: "2024",
+    duration: "2025",
     status: "Completed",
     link: "https://scadpl.com/"
   }
@@ -1043,8 +1043,8 @@ function Portfolio() {
       {/* ============================================ */}
       <footer className="py-8 px-4 bg-white border-t-2 border-gray-200">
         <div className="container mx-auto max-w-6xl text-center text-gray-600">
-          <p className="font-medium">© 2024 Khushal Patil. Built with React & Tailwind CSS.</p>
-          <p className="mt-2 text-sm">Available for freelance projects and full-time opportunities.</p>
+          <p className="font-medium">© 2025 Khushal Patil. All rights reserved.</p>
+          <p className="mt-2 text-sm">Full Stack Java Developer | Open for Opportunities</p>
         </div>
       </footer>
     </div>
