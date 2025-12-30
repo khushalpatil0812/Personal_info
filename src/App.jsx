@@ -303,7 +303,7 @@ function Portfolio() {
                 <h3 className="text-lg md:text-xl font-semibold text-gray-900 mb-2">Master of Computer Applications</h3>
                 <p className="text-sm md:text-base text-gray-600 mb-2">🏛️ MIT World Peace University, Pune</p>
                 <div className="flex justify-between text-xs md:text-sm text-gray-600 mb-2">
-                  <span className="flex items-center gap-1"><Calendar size={14} /> 2022 - 2024</span>
+                  <span className="flex items-center gap-1"><Calendar size={14} /> 2024 - 2026</span>
                   <span className="text-blue-600 font-semibold">CGPA: 8.12</span>
                 </div>
                 <div className="mt-3 pt-3 border-t border-gray-200">
