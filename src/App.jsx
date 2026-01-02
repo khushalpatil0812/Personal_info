@@ -16,7 +16,8 @@ import {
   ExternalLink,
   Clock,
   CheckCircle,
-  AlertCircle
+  AlertCircle,
+  Youtube
 } from 'lucide-react';
 
 // ============================================
@@ -216,6 +217,15 @@ function Portfolio() {
               >
                 <BookOpen size={12} />
                 Medium
+              </a>
+              <a 
+                href="https://youtube.com/@codewithkhush-x8x?si=Br8CS6xq5oTuN9Jw" 
+                target="_blank" 
+                rel="noopener noreferrer"
+                className="px-2 md:px-3 py-1 text-xs bg-red-600 text-white rounded-full hover:bg-red-700 transition-all font-medium flex items-center gap-1"
+              >
+                <Youtube size={12} />
+                YouTube
               </a>
             </div>
             
