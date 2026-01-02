@@ -34,6 +34,36 @@ const freelanceProjects = [
     duration: "2025",
     status: "Completed",
     link: "https://scadpl.com/"
+  },
+  {
+    id: 2,
+    title: "Cold Consult",
+    client: "Cold Consult",
+    description: "Developed a professional consulting platform providing comprehensive business solutions and strategic advisory services. Built responsive user interfaces and integrated client management systems.",
+    tech: ["React", "JavaScript", "Responsive Design"],
+    duration: "2024-2025",
+    status: "Completed",
+    link: "https://coldconsult.com/"
+  },
+  {
+    id: 3,
+    title: "Robofye",
+    client: "Robofye",
+    description: "Created an innovative robotics and automation showcase platform. Implemented interactive features and modern design patterns to highlight cutting-edge robotic solutions and technology demonstrations.",
+    tech: ["React", "Modern UI/UX", "Animation"],
+    duration: "2024-2025",
+    status: "Completed",
+    link: "https://robofye.com/"
+  },
+  {
+    id: 4,
+    title: "Future Tech Career",
+    client: "Future Tech Career",
+    description: "Built a comprehensive career guidance and technology education platform. Developed features for career exploration, tech skill development resources, and interactive learning modules to help students navigate their future in technology.",
+    tech: ["React", "Next.js", "Vercel", "Educational Tech"],
+    duration: "2024-2025",
+    status: "Completed",
+    link: "https://futuretechcareer.vercel.app/"
   }
 ];
 
